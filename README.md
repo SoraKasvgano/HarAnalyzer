@@ -5,7 +5,7 @@ HAR Analyzer is a tool used to analyze HAR (HTTP Archive) files, which capture a
 
 ## 📋 功能概述
 
-通用HAR分析器是一个的工具，可以自动分析任何HAR（HTTP Archive）文件，提取有用的信息并生成详细的分析报告和代码模板。
+通用HAR分析器是一个简单的工具，可以自动分析任何HAR（HTTP Archive）文件，提取有用的信息并生成详细的分析报告和代码模板。
 
 ## ✨ 主要功能
 
